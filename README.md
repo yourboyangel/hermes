@@ -1,5 +1,5 @@
 # hermes
-Web Technologies and Programming Travel Agency Project
+Travel Agency Website
 
 Hermes Travel is a comprehensive web-based travel agency platform designed to facilitate seamless travel bookings and provide an enriching travel experience for users. Developed primarily using PHP, HTML, and CSS, with minimal use of JavaScript, the platform ensures an efficient, and user-friendly interface. Hermes Travel caters to two main user groups: clients and staff.
 Clients can explore a wide range of travel destinations, view detailed information, contact us, make bookings, and leave reviews, enhancing their travel planning experience. The platform offers a personalized touch, allowing users to find and book destinations that suit their preferences and needs.
